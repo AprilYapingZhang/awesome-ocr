@@ -6,16 +6,16 @@
 ## Text Detection
 ### 2019
 
-- 【CRAFT】 Clova AI Research, NAVER Corp. [Character Region Awareness for Text Detection, CVPR19](https://github.com/clovaai/CRAFT-pytorch)
-- 【TIoU-metric】South China University of Technology. [Tightness-Aware Evaluation Protocol for Scene Text Detection, CVPR19](https://github.com/Yuliang-Liu/TIoU-metric)
-- 【PSENet】 Nanjing University. [Shape Robust Text Detection With Progressive Scale Expansion Network, CVPR19](https://github.com/whai362/PSENet)
-### 2018
-
-- Yuliang L, Lianwen J, Shuaitao Z, et al. [Detecting Curve Text in the Wild: New Dataset and New Solution](https://arxiv.org/abs/1712.02170)[J]. arXiv preprint arXiv:1712.02170, 2017.<br>
-  &nbsp;&nbsp;&nbsp;&nbsp; **code**:[[code](https://github.com/Yuliang-Liu/Curve-Text-Detector)]
+- 【CRAFT】 Clova AI Research, NAVER Corp. [Character Region Awareness for Text Detection](https://github.com/clovaai/CRAFT-pytorch), CVPR19
+- 【TIoU-metric】South China University of Technology. [Tightness-Aware Evaluation Protocol for Scene Text Detection](https://github.com/Yuliang-Liu/TIoU-metric), CVPR19
+- 【PSENet】 Nanjing University. [Shape Robust Text Detection With Progressive Scale Expansion Network](https://github.com/whai362/PSENet), CVPR19
+- 【Curve-Text-Detector】 Yuliang L, Lianwen J, Shuaitao Z, et al. [Detecting Curve Text in the Wild: New Dataset and New Solution](https://github.com/Yuliang-Liu/Curve-Text-Detector)
   
+### 2018
+- 【TextBoxes++】Minghui Liao, Baoguang Shi and Xiang Bai[{TextBoxes++}: A Single-Shot Oriented Scene Text Detector}](https://github.com/MhLiao/TextBoxes_plusplus),TIP2018
 ### 2017
- -【TextBoxes】 Minghui Liao, Baoguang Shi, Xiang Bai, Xinggang Wang, Wenyu Liu. [TextBoxes: A Fast Text Detector with a Single Deep Neural Network](https://arxiv.org/abs/1611.06779).[code](https://github.com/MhLiao/TextBoxes)
+
+- 【TextBoxes】 Minghui Liao, Baoguang Shi, Xiang Bai, Xinggang Wang, Wenyu Liu. [TextBoxes: A Fast Text Detector with a Single Deep Neural Network](https://github.com/MhLiao/TextBoxes)
  
 - 【Seglink】 Shi B, Bai X, Belongie S. [Detecting Oriented Text in Natural Images by Linking Segments](https://arxiv.org/abs/1703.06520)[J]. arXiv preprint arXiv:1703.06520, 2017.<br>
   &nbsp;&nbsp;&nbsp;&nbsp; **code**:[[code](https://github.com/dengdan/seglink)]
