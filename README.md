@@ -6,9 +6,9 @@
 ## Text Detection
 ### 2019
 
-- [1] Clova AI Research, NAVER Corp. [Character Region Awareness for Text Detection, CVPR19](https://github.com/clovaai/CRAFT-pytorch)
-- [2] South China University of Technology. [Tightness-Aware Evaluation Protocol for Scene Text Detection, CVPR19](https://github.com/Yuliang-Liu/TIoU-metric)
-- [3] Nanjing University. [Shape Robust Text Detection With Progressive Scale Expansion Network, CVPR19](https://github.com/whai362/PSENet)
+- 【CRAFT】 Clova AI Research, NAVER Corp. [Character Region Awareness for Text Detection, CVPR19](https://github.com/clovaai/CRAFT-pytorch)
+- 【TIoU-metric】South China University of Technology. [Tightness-Aware Evaluation Protocol for Scene Text Detection, CVPR19](https://github.com/Yuliang-Liu/TIoU-metric)
+- 【PSENet】 Nanjing University. [Shape Robust Text Detection With Progressive Scale Expansion Network, CVPR19](https://github.com/whai362/PSENet)
 ### 2018
 
 - Yuliang L, Lianwen J, Shuaitao Z, et al. [Detecting Curve Text in the Wild: New Dataset and New Solution](https://arxiv.org/abs/1712.02170)[J]. arXiv preprint arXiv:1712.02170, 2017.<br>
