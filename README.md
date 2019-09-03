@@ -5,7 +5,7 @@
 
 ## Text Detection
 ### 2019
-
+- 【ALCHEMY】 CMU, PKU, MEGVII. [ Alchemy: Techniques for Rectification Based Irregular Scene Text Recognition](https://github.com/Jyouhou/ICDAR2019-ArT-Recognition-Alchemy), Arxiv 2019
 - 【CRAFT】 Clova AI Research, NAVER Corp. [Character Region Awareness for Text Detection](https://github.com/clovaai/CRAFT-pytorch), CVPR19
 - 【TIoU-metric】South China University of Technology. [Tightness-Aware Evaluation Protocol for Scene Text Detection](https://github.com/Yuliang-Liu/TIoU-metric), CVPR19
 - 【PSENet】 Nanjing University. [Shape Robust Text Detection With Progressive Scale Expansion Network](https://github.com/whai362/PSENet), CVPR19
