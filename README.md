@@ -5,6 +5,7 @@
 
 ## Text Detection
 ### 2019
+
 - 【ALCHEMY】 CMU, PKU, MEGVII. [ Alchemy: Techniques for Rectification Based Irregular Scene Text Recognition](https://github.com/Jyouhou/ICDAR2019-ArT-Recognition-Alchemy), Arxiv 2019
 - 【CRAFT】 Clova AI Research, NAVER Corp. [Character Region Awareness for Text Detection](https://github.com/clovaai/CRAFT-pytorch), CVPR19
 - 【TIoU-metric】South China University of Technology. [Tightness-Aware Evaluation Protocol for Scene Text Detection](https://github.com/Yuliang-Liu/TIoU-metric), CVPR19
@@ -13,6 +14,7 @@
   
 ### 2018
 - 【TextBoxes++】Minghui Liao, Baoguang Shi and Xiang Bai[{TextBoxes++}: A Single-Shot Oriented Scene Text Detector}](https://github.com/MhLiao/TextBoxes_plusplus),TIP2018
+- 【Multi-Oriented】Lyu, Pengyuan and Yao, Cong and Wu, Wenhao and Yan, Shuicheng and Bai, Xiang. [Multi-oriented scene text detection via corner localization and region segmentation](https://github.com/lvpengyuan/corner), CVPR 2018
 ### 2017
 
 - 【TextBoxes】 Minghui Liao, Baoguang Shi, Xiang Bai, Xinggang Wang, Wenyu Liu. [TextBoxes: A Fast Text Detector with a Single Deep Neural Network](https://github.com/MhLiao/TextBoxes)
@@ -51,6 +53,9 @@
 ### 2019
 - [1] South China University of Technology. [Aggregation Cross-Entropy for Sequence Recognition, CVPR19](https://github.com/summerlvsong/Aggregation-Cross-Entropy)
 - 【MORAN】Canjie Luo, Lianwen Jin, Zenghui Sun .[A Multi-Object Rectified Attention Network for Scene Text Recognition](https://arxiv.org/pdf/1901.03003) .[J] arXiv preprint arXiv:1901.03003.<br>[code: [Canjie-Luo/MORAN_v2](https://github.com/Canjie-Luo/MORAN_v2)]
+
+### 2018
+
 ### 2017
 - Wojna Z, Gorban A, Lee D S, et al. [Attention-based Extraction of Structured Information from Street View Imagery](https://arxiv.org/abs/1704.03549)[J]. arXiv preprint arXiv:1704.03549, 2017.<br>:
   &nbsp;&nbsp;&nbsp;&nbsp; **code**:[[offical](https://github.com/tensorflow/models/tree/master/research/attention_ocr);[similar](https://github.com/da03/Attention-OCR)] 
