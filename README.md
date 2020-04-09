@@ -51,8 +51,11 @@
   
 ## Text image recognition
 ### 2019
-- [1] South China University of Technology. [Aggregation Cross-Entropy for Sequence Recognition, CVPR19](https://github.com/summerlvsong/Aggregation-Cross-Entropy)
+- [1] South China University of Technology. [Aggregation Cross-Entropy for Sequence Recognition, CVPR19](https://github.com/summerlvsong/Aggregation-Cross-Entropy)[C]
 - 【MORAN】Canjie Luo, Lianwen Jin, Zenghui Sun .[A Multi-Object Rectified Attention Network for Scene Text Recognition](https://arxiv.org/pdf/1901.03003) .[J] arXiv preprint arXiv:1901.03003.<br>[code: [Canjie-Luo/MORAN_v2](https://github.com/Canjie-Luo/MORAN_v2)]
+- 【SAR】Hui Li*, Peng Wang*, Chunhua Shen, Guyu Zhang.[Show, Attend and Read: A Simple and Strong Baseline for Irregular Text Recognition](https://arxiv.org/pdf/1811.00751.pdf) .[C] [code: [wangpengnorman
+/
+SAR-Strong-Baseline-for-Text-Recognition](https://github.com/wangpengnorman/SAR-Strong-Baseline-for-Text-Recognition)]
 
 ### 2018
 
