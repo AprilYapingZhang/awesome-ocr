@@ -13,8 +13,10 @@
 - 【Curve-Text-Detector】 Yuliang L, Lianwen J, Shuaitao Z, et al. [Detecting Curve Text in the Wild: New Dataset and New Solution](https://github.com/Yuliang-Liu/Curve-Text-Detector)
   
 ### 2018
+
 - 【TextBoxes++】Minghui Liao, Baoguang Shi and Xiang Bai[{TextBoxes++}: A Single-Shot Oriented Scene Text Detector}](https://github.com/MhLiao/TextBoxes_plusplus),TIP2018
 - 【Multi-Oriented】Lyu, Pengyuan and Yao, Cong and Wu, Wenhao and Yan, Shuicheng and Bai, Xiang. [Multi-oriented scene text detection via corner localization and region segmentation](https://github.com/lvpengyuan/corner), CVPR 2018
+
 ### 2017
 
 - 【TextBoxes】 Minghui Liao, Baoguang Shi, Xiang Bai, Xinggang Wang, Wenyu Liu. [TextBoxes: A Fast Text Detector with a Single Deep Neural Network](https://github.com/MhLiao/TextBoxes)
@@ -50,6 +52,34 @@
   
   
 ## Text image recognition
+### 2020
+
+**[1]** **\[CVPR-2020]** R. Litman, O. Anschel, S. Tsiper, R. Litman, S. Mazor, and R. Manmatha, “SCATTER: selective context attentional scene text recognizer,” in Proceedings of CVPR, 2020. [paper](https://arxiv.org/abs/2003.11288.pdf) 
+
+**[2]** **\[CVPR-2020]**  D. Yu, X. Li, C. Zhang, J. Han, J. Liu, and E. Ding, “Towards accurate scene text recognition with semantic reasoning networks,” in Proceedings of CVPR, 2020. [paper](https://arxiv.org/abs/2003.12294.pdf) 
+
+**[3]** **\[ICVGIP-2018]** Gupta A, Vedaldi A, Zisserman A. "Learning to read by spelling: Towards unsupervised text recognition," in Proceedings of ICVGIP, 2018. [paper](https://dl.acm.org/doi/pdf/10.1145/3293353.3293386) 
+
+**[4]** **\[CVPR-2020]** Wan Z, Zhang J, Zhang L, et al, "On Vocabulary Reliance in Scene Text Recognition," in  Proceedings of CVPR, 2020. [paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wan_On_Vocabulary_Reliance_in_Scene_Text_Recognition_CVPR_2020_paper.pdf) 
+
+**[5]** **\[ECAI-2020]** Bleeker M, de Rijke M, "Bidirectional Scene Text Recognition with a Single Decoder," in Proceedings of ECAI, 2020. [paper](https://arxiv.org/pdf/1912.03656.pdf) [code](https://github.com/MauritsBleeker/Bi-STET)
+
+**[6]** **\[arXiv-2019]** Bartz C, Bethge J, Yang H, et al, "KISS: Keeping It Simple for Scene Text Recognition,"CoRR abs/1911.08400, 2019. [paper](https://arxiv.org/pdf/1911.08400.pdf) [code](https://github.com/Bartzi/kiss)
+
+**[7]** **\[arXiv-2020]**  Zhang C, Xu Y, Cheng Z, et al, "SPIN: Structure-Preserving Inner Offset Network for Scene Text Recognition,"  CoRR abs/2005.13117, 2020. [paper](https://arxiv.org/pdf/2005.13117.pdf) 
+
+**[8]** **\[arXiv-2020]**  Lin J, Cheng Z, Bai F, et al, "Text Recognition in Real Scenarios with a Few Labeled Samples,"  CoRR abs/2006.12209, 2020. [paper](https://arxiv.org/pdf/2006.12209.pdf) 
+
+**[9]** **\[ECCV-2020]**  Zhang C, Gupta A, Zisserman A. "Adaptive Text Recognition through Visual Matching," in Proceedings of ECCV, 2020. [paper](https://link.springer.com/chapter/10.1007/978-3-030-58517-4_4)  [code]( http://www.robots.ox.ac.uk/~vgg/research/FontAdaptor20/)
+
+**[10]** **\[ECCV-2020]**  Zhang H, Yao Q, Yang M, et al, "AutoSTR: Efficient Backbone Search for Scene Text Recognition," in Proceedings of ECCV, 2020. [paper](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690732.pdf)  [code](https://github.com/AutoML-4Paradigm/AutoSTR.git)
+
+**[11]** **\[ECCV-2020]**   Yan R, Huang Y, "PlugNet: Degradation Aware Scene Text Recognition Supervised by a Pluggable Super-Resolution Unit," in Proceedings of ECCV, 2020. [paper](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123600154.pdf) 
+
+**[12]** **\[ECCV-2020]**   Yue X, Kuang Z, Lin C, et al. RobustScanner: Dynamically Enhancing Positional Clues for Robust Text Recognition," in Proceedings of ECCV, 2020. [paper](https://arxiv.org/pdf/2007.07542.pdf) 
+
+**[13]** **\[CVPR-2020]**   Zhi Qiao, Yu Zhou, Dongbao Yang, Yucan Zhou, and Weiping Wang. 2020. SEED: Semantics Enhanced Encoder-Decoder Framework for Scene Text Recognition. In Proceedings of CVPR. [paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Qiao_SEED_Semantics_Enhanced_Encoder-Decoder_Framework_for_Scene_Text_Recognition_CVPR_2020_paper.pdf) [code]( https://github.com/Pay20Y/SEED)
+
 ### 2019
 - [1] South China University of Technology. [Aggregation Cross-Entropy for Sequence Recognition, CVPR19](https://github.com/summerlvsong/Aggregation-Cross-Entropy)[C]
 - 【MORAN】Canjie Luo, Lianwen Jin, Zenghui Sun .[A Multi-Object Rectified Attention Network for Scene Text Recognition](https://arxiv.org/pdf/1901.03003) .[J] arXiv preprint arXiv:1901.03003.<br>[code: [Canjie-Luo/MORAN_v2](https://github.com/Canjie-Luo/MORAN_v2)]
@@ -101,9 +131,12 @@ SAR-Strong-Baseline-for-Text-Recognition](https://github.com/wangpengnorman/SAR-
  - Gómez L, Karatzas D. [Textproposals: a text-specific selective search algorithm for word spotting in the wild](https://arxiv.org/abs/1604.02619)[J]. Pattern Recognition, 2017, 70: 60-74.[[code](https://github.com/lluisgomez/TextProposals)]
  
 ## Synthetic Text data
-## 2016
+### 2020
+- 【Synthetic 3D data】 **\[CVPR-2020]** S. Long and C. Yao, “UnrealText: Synthesizing realistic scene text images from the unreal world,” in Proceedings of CVPR, 2020. [paper](https://arxiv.org/abs/2003.10608.pdf)
+### 2016
 - 【Synthetic data】Gupta A, Vedaldi A, Zisserman A. [Synthetic data for text localisation in natural images](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gupta_Synthetic_Data_for_CVPR_2016_paper.pdf)[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016: 2315-2324.<br>
   &nbsp;&nbsp;&nbsp;&nbsp; **code**:[[offical](https://github.com/ankush-me/SynthText);[vgg](http://www.robots.ox.ac.uk/~vgg/data/scenetext/);[other](https://github.com/Belval/TextRecognitionDataGenerator)]
+
  
 
 
@@ -124,6 +157,9 @@ SAR-Strong-Baseline-for-Text-Recognition](https://github.com/wangpengnorman/SAR-
 
 
 ## Survey
+### 2020
+- **\[ACM Computing Surveys-2020]** X. Chen, L. Jin, Y. Zhu, C. Luo, and T. Wang, “Text Recognition in the Wild: A Survey," ACM Computing Surveys (CSUR) 2020. [paper](https://arxiv.org/pdf/2005.03492.pdf) [code](https://github.com/HCIILAB/Scene-Text-Recognition)
+
 ### 2016
 - Zhu Y, Yao C, Bai X. [Scene text detection and recognition: Recent advances and future trends](http://mclab.eic.hust.edu.cn/UpLoadFiles/Papers/FCS_TextSurvey_2015.pdf)[J]. Frontiers of Computer Science, 2016, 10(1): 19-36.
 
