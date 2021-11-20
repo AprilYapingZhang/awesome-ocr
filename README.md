@@ -7,7 +7,7 @@
 
 - 【CentripetalText】 PKU. Sheng, Tao, Jie Chen, and Zhouhui Lian. [ CentripetalText: An Efficient Text Instance Representation for Scene Text Detection](https://proceedings.neurips.cc/paper/2021/file/03227b950778ab86436ff79fe975b596-Paper.pdf), NueralIPS 2021
 
- -【MAYOR】 UCAS. Qin, Xugong, Weiping Wang et al. [Mask is all you need: Rethinking mask r-cnn for dense and arbitrary-shaped scene text detection](https://arxiv.org/pdf/2109.03426.pdf),  ACMMM 2021.
+ - 【MAYOR】 UCAS. Qin, Xugong, Weiping Wang et al. [Mask is all you need: Rethinking mask r-cnn for dense and arbitrary-shaped scene text detection](https://arxiv.org/pdf/2109.03426.pdf),  ACMMM 2021.
 
 - 【PCR】 Dai, Pengwen, et al. [Progressive Contour Regression for Arbitrary-Shape Scene Text Detection](https://github.com/dpengwen/PCR)， CVPR 2021.  **code**:[[code](https://github.com/dpengwen/PCR)]
 
