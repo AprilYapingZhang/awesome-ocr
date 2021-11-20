@@ -1,9 +1,27 @@
 # awesome-ocr
- Some awesome OCR papers with released codes.
+ Some awesome OCR papers.
 ------
 
-
 ## Text Detection
+### 2021
+
+- 【CentripetalText】 PKU. Sheng, Tao, Jie Chen, and Zhouhui Lian. [ CentripetalText: An Efficient Text Instance Representation for Scene Text Detection](https://proceedings.neurips.cc/paper/2021/file/03227b950778ab86436ff79fe975b596-Paper.pdf), NueralIPS 2021
+
+ -【MAYOR】 UCAS. Qin, Xugong, Weiping Wang et al. [Mask is all you need: Rethinking mask r-cnn for dense and arbitrary-shaped scene text detection](https://arxiv.org/pdf/2109.03426.pdf),  ACMMM 2021.
+
+- 【PCR】 Dai, Pengwen, et al. [Progressive Contour Regression for Arbitrary-Shape Scene Text Detection](https://github.com/dpengwen/PCR)， CVPR 2021.  **code**:[[code](https://github.com/dpengwen/PCR)]
+
+ - 【MOST】 He, Minghang, Xiang Bai et al. [MOST: A Multi-Oriented Scene Text Detector with Localization Refinement](https://openaccess.thecvf.com/content/CVPR2021/papers/He_MOST_A_Multi-Oriented_Scene_Text_Detector_With_Localization_Refinement_CVPR_2021_paper.pdf), CVPR 2021.
+ 
+ - 【FCENet】Zhu, Yiqin, LianWen Jin et al. [Fourier contour embedding for arbitrary-shaped text detection](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhu_Fourier_Contour_Embedding_for_Arbitrary-Shaped_Text_Detection_CVPR_2021_paper.pdf), CVPR 2021.
+ 
+ - 【STKM】 Wan, Qi, Haoqin Ji, and Linlin Shen. [Self-Attention Based Text Knowledge Mining for Text Detection](https://openaccess.thecvf.com/content/CVPR2021/papers/Wan_Self-Attention_Based_Text_Knowledge_Mining_for_Text_Detection_CVPR_2021_paper.pdf), CVPR 2021. **code**:[code](https://github.com/CVI-SZU/STKM)
+ 
+ - 【Video Text Detection】Feng, Wei, Cheng-lin Liu et al. [Semantic-Aware Video Text Detection](https://openaccess.thecvf.com/content/CVPR2021/papers/Feng_Semantic-Aware_Video_Text_Detection_CVPR_2021_paper.pdf),  CVPR 2021.
+ 
+ - 【TextSeg】 Xu, Xingqian, et al. [Rethinking text segmentation: A novel dataset and a text-specific refinement approach](https://openaccess.thecvf.com/content/CVPR2021/papers/Xu_Rethinking_Text_Segmentation_A_Novel_Dataset_and_a_Text-Specific_Refinement_CVPR_2021_paper.pdf) ,  CVPR 2021.
+**code**:[code](https://github.com/SHI-Labs/Rethinking-TextSegmentation)
+
 ### 2019
 
 - 【ALCHEMY】 CMU, PKU, MEGVII. [ Alchemy: Techniques for Rectification Based Irregular Scene Text Recognition](https://github.com/Jyouhou/ICDAR2019-ArT-Recognition-Alchemy), Arxiv 2019
@@ -11,6 +29,7 @@
 - 【TIoU-metric】South China University of Technology. [Tightness-Aware Evaluation Protocol for Scene Text Detection](https://github.com/Yuliang-Liu/TIoU-metric), CVPR19
 - 【PSENet】 Nanjing University. [Shape Robust Text Detection With Progressive Scale Expansion Network](https://github.com/whai362/PSENet), CVPR19
 - 【Curve-Text-Detector】 Yuliang L, Lianwen J, Shuaitao Z, et al. [Detecting Curve Text in the Wild: New Dataset and New Solution](https://github.com/Yuliang-Liu/Curve-Text-Detector)
+
   
 ### 2018
 
