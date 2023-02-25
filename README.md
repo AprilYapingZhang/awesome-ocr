@@ -4,10 +4,11 @@
 ## Text spotting
 
 ### 2022
-### CVPR 2022
+#### CVPR 2022
 - Xiang Zhang, Yongwen Su, Subarna Tripathi, Zhuowen Tu. [Text Spotting Transformers](http://www.cvc.uab.es/~afornes/publi/journals/2014_PAMI_Almazan.pdf)[C]. CVPR 2022; **code**:[[code](https://github.com/mlpc-ucsd/TESTR)]
 - Mingxin Huang, Yuliang Liu, Zhenghao Peng, Chongyu Liu, Dahua Lin, Shenggao Zhu, Nicholas Yuan, Kai Ding, Lianwen Jin. [SwinTextSpotter: Scene Text Spotting via Better Synergy Between Text Detection and Text Recognition](https://openaccess.thecvf.com/content/CVPR2022/papers/Huang_SwinTextSpotter_Scene_Text_Spotting_via_Better_Synergy_Between_Text_Detection_CVPR_2022_paper.pdf)[C]. CVPR 2022; **code**:[[code](https://github.com/mxin262/SwinTextSpotter)]
 - Yair Kittenplon, Inbal Lavi, Sharon Fogel, Yarin Bar, R. Manmatha, Pietro Perona. [Towards Weakly-Supervised Text Spotting Using a Multi-Task Transformer](https://openaccess.thecvf.com/content/CVPR2022/papers/Kittenplon_Towards_Weakly-Supervised_Text_Spotting_Using_a_Multi-Task_Transformer_CVPR_2022_paper.pdf)[C]. CVPR 2022; 
+
 
   
 ### 2014
@@ -23,6 +24,14 @@
  
 
 ## Text Detection
+
+### 2022
+#### CVPR 2022
+- Shangbang Long, Siyang Qin, Dmitry Panteleev, Alessandro Bissacco, Yasuhisa Fujii, Michalis Raptis. [Towards End-to-End Unified Scene Text Detection and Layout Analysis](https://openaccess.thecvf.com/content/CVPR2022/papers/Long_Towards_End-to-End_Unified_Scene_Text_Detection_and_Layout_Analysis_CVPR_2022_paper.pdf)[C]. CVPR 2022; **code**:[[code](https://github.com/google-research-datasets/hiertext)]
+- Sibo Song, Jianqiang Wan, Zhibo Yang, Jun Tang, Wenqing Cheng, Xiang Bai, Cong Yao. [Vision-Language Pre-Training for Boosting Scene Text Detectors](https://openaccess.thecvf.com/content/CVPR2022/papers/Song_Vision-Language_Pre-Training_for_Boosting_Scene_Text_Detectors_CVPR_2022_paper.pdf)[C]. CVPR 2022; **code**:[[code]()]
+- Jingqun Tang, Wenqing Zhang, Hongye Liu, MingKun Yang, Bo Jiang, Guanglong Hu, Xiang Bai. [Few Could Be Better Than All: Feature Sampling and Grouping for Scene Text Detection](https://openaccess.thecvf.com/content/CVPR2022/papers/Tang_Few_Could_Be_Better_Than_All_Feature_Sampling_and_Grouping_CVPR_2022_paper.pdf)[C]. CVPR 2022; **code**:[[code]()]
+
+
 ### 2021
 
 - 【CentripetalText】 PKU. Sheng, Tao, Jie Chen, and Zhouhui Lian. [ CentripetalText: An Efficient Text Instance Representation for Scene Text Detection](https://proceedings.neurips.cc/paper/2021/file/03227b950778ab86436ff79fe975b596-Paper.pdf), NueralIPS 2021
@@ -91,6 +100,15 @@
   
   
 ## Text image recognition
+
+### 2022
+#### CVPR 2022
+- Shangbang Long, Siyang Qin, Dmitry Panteleev, Alessandro Bissacco, Yasuhisa Fujii, Michalis Raptis. [Open-Set Text Recognition via Character-Context Decoupling](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Open-Set_Text_Recognition_via_Character-Context_Decoupling_CVPR_2022_paper.pdf)[C]. CVPR 2022; **code**:[[code]()]
+- Chang Liu, Chun Yang, Xu-Cheng Yin. [Pushing the Performance Limit of Scene Text Recognizer Without Human Annotation](https://openaccess.thecvf.com/content/CVPR2022/papers/Zheng_Pushing_the_Performance_Limit_of_Scene_Text_Recognizer_Without_Human_CVPR_2022_paper.pdf)[C]. CVPR 2022; **code**:[[code]()]
+- Canjie Luo, Lianwen Jin, Jingdong Chen. [SimAN: Exploring Self-Supervised Representation Learning of Scene Text via Similarity-Aware Normalization](https://openaccess.thecvf.com/content/CVPR2022/papers/Luo_SimAN_Exploring_Self-Supervised_Representation_Learning_of_Scene_Text_via_Similarity-Aware_CVPR_2022_paper.pdf)[C]. CVPR 2022; **code**:[[code]()]
+
+
+
 ### 2020
 
 **[1]** **\[CVPR-2020]** R. Litman, O. Anschel, S. Tsiper, R. Litman, S. Mazor, and R. Manmatha, “SCATTER: selective context attentional scene text recognizer,” in Proceedings of CVPR, 2020. [paper](https://arxiv.org/abs/2003.11288.pdf) 
@@ -165,7 +183,15 @@ SAR-Strong-Baseline-for-Text-Recognition](https://github.com/wangpengnorman/SAR-
 - 【Synthetic data】Gupta A, Vedaldi A, Zisserman A. [Synthetic data for text localisation in natural images](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gupta_Synthetic_Data_for_CVPR_2016_paper.pdf)[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016: 2315-2324.<br>
   &nbsp;&nbsp;&nbsp;&nbsp; **code**:[[offical](https://github.com/ankush-me/SynthText);[vgg](http://www.robots.ox.ac.uk/~vgg/data/scenetext/);[other](https://github.com/Belval/TextRecognitionDataGenerator)]
 
- 
+
+## Application with Scene Text
+-Hao Wang, Junchao Liao, Tianheng Cheng, Zewen Gao, Hao Liu, Bo Ren, Xiang Bai, Wenyu Liu. [Knowledge Mining With Scene Text for Fine-Grained Recognition](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Knowledge_Mining_With_Scene_Text_for_Fine-Grained_Recognition_CVPR_2022_paper.pdf)[C]. CVPR 2022; **code**:[[code]()]
+- Mengjun Cheng, Yipeng Sun, Longchao Wang, Xiongwei Zhu, Kun Yao, Jie Chen, Guoli Song, Junyu Han, Jingtuo Liu, Errui Ding, Jingdong Wang. [ViSTA: Vision and Scene Text Aggregation for Cross-Modal Retrieval](https://openaccess.thecvf.com/content/CVPR2022/papers/Cheng_ViSTA_Vision_and_Scene_Text_Aggregation_for_Cross-Modal_Retrieval_CVPR_2022_paper.pdf)[C]. CVPR 2022; **code**:[[code]()]
+
+## Image Text Super-resolution 
+### 2022
+- Jianqi Ma, Zhetong Liang, Lei Zhang. [A Text Attention Network for Spatial Deformation Robust Scene Text Image Super-Resolution](https://openaccess.thecvf.com/content/CVPR2022/papers/Ma_A_Text_Attention_Network_for_Spatial_Deformation_Robust_Scene_Text_CVPR_2022_paper.pdf)[C]. CVPR 2022; **code**:[[code]()]
+- 
 
 
 ## Text Style Transfer
