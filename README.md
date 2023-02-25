@@ -9,18 +9,27 @@
 - Mingxin Huang, Yuliang Liu, Zhenghao Peng, Chongyu Liu, Dahua Lin, Shenggao Zhu, Nicholas Yuan, Kai Ding, Lianwen Jin. [SwinTextSpotter: Scene Text Spotting via Better Synergy Between Text Detection and Text Recognition](https://openaccess.thecvf.com/content/CVPR2022/papers/Huang_SwinTextSpotter_Scene_Text_Spotting_via_Better_Synergy_Between_Text_Detection_CVPR_2022_paper.pdf)[C]. CVPR 2022; **code**:[[code](https://github.com/mxin262/SwinTextSpotter)]
 - Yair Kittenplon, Inbal Lavi, Sharon Fogel, Yarin Bar, R. Manmatha, Pietro Perona. [Towards Weakly-Supervised Text Spotting Using a Multi-Task Transformer](https://openaccess.thecvf.com/content/CVPR2022/papers/Kittenplon_Towards_Weakly-Supervised_Text_Spotting_Using_a_Multi-Task_Transformer_CVPR_2022_paper.pdf)[C]. CVPR 2022; 
 
-
+### 2017
+- Kang C, Kim G, Yoo S I. [Detection and Recognition of Text Embedded in Online Images via Neural Context Models](http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14154/14287)[C]//AAAI. 2017: 4103-4110.<br>
+  &nbsp;&nbsp;&nbsp;&nbsp; **code**:[[code](https://github.com/cmkang/CTSN)]
   
+- Bartz C, Yang H, Meinel C. [STN-OCR: A single Neural Network for Text Detection and Text Recognition](https://arxiv.org/abs/1707.08831)[J]. arXiv preprint arXiv:1707.08831, 2017.<br>
+  &nbsp;&nbsp;&nbsp;&nbsp; **code**:[[code](https://github.com/Bartzi/stn-ocr)]
+ 
+ - Busta M, Neumann L, Matas J. [Deep TextSpotter: An End-to-End Trainable Scene Text Localization and Recognition Framework](https://pdfs.semanticscholar.org/64ff/7f81f066a26a40f52e41931a97c166db094d.pdf)[C]//CVPR 2017: 2204-2212.[[code](https://github.com/MichalBusta/DeepTextSpotter)]
+ 
+  
+ ### 2016
+ - Gómez L, Karatzas D. [Textproposals: a text-specific selective search algorithm for word spotting in the wild](https://arxiv.org/abs/1604.02619)[J]. Pattern Recognition, 2017, 70: 60-74.[[code](https://github.com/lluisgomez/TextProposals)]
+ 
+ 
 ### 2014
 
 - Almazán J, Gordo A, Fornés A, et al. [Word spotting and recognition with embedded attributes](http://www.cvc.uab.es/~afornes/publi/journals/2014_PAMI_Almazan.pdf)[J]. IEEE transactions on pattern analysis and machine intelligence, 2014, 36(12): 2552-2566.<br>
   &nbsp;&nbsp;&nbsp;&nbsp; **code**:[[code](https://github.com/almazan/watts)]
 - Jaderberg M, Vedaldi A, Zisserman A. [Deep features for text spotting](http://www.robots.ox.ac.uk/~vedaldi/assets/pubs/jaderberg14deep.pdf)[C]//European conference on computer vision. Springer, Cham, 2014: 512-528.<br>
   &nbsp;&nbsp;&nbsp;&nbsp; **code**:[[code](https://bitbucket.org/jaderberg/eccv2014_textspotting)]
-  
- ### 2016
- - Gómez L, Karatzas D. [Textproposals: a text-specific selective search algorithm for word spotting in the wild](https://arxiv.org/abs/1604.02619)[J]. Pattern Recognition, 2017, 70: 60-74.[[code](https://github.com/lluisgomez/TextProposals)]
- 
+
  
 
 ## Text Detection
@@ -165,16 +174,7 @@ SAR-Strong-Baseline-for-Text-Recognition](https://github.com/wangpengnorman/SAR-
   &nbsp;&nbsp;&nbsp;&nbsp; **code**:【1 - [offical](https://github.com/bgshih/crnn)】; 【2 - [crnn.pytorch](https://github.com/meijieru/crnn.pytorch)】; 【3 - [unfinished](https://github.com/Belval/CRNN)】; 【4 - [crnn.pytorch-chinese](https://github.com/wulivicte/crnn)】; 【5 - [crnn+stn-tf](https://github.com/chengzhang/CRNN)】; 【6 - [lstm+ctc](https://github.com/ilovin/lstm_ctc_ocr)】; 【7 - [ctpn+crnn-merge-cannot-train](https://github.com/bear63/sceneReco)】; 【8 - [crnn-mnist-keras](https://github.com/jamesmf/mnistCRNN)】; 【9 - [crnn-tf](https://github.com/TJCVRS/CRNN_Tensorflow)】; 【10 - [crnn-tf-could-be-better](https://github.com/AimeeKing/crnn-tensorflow)】; 【11 - [crnn.mxnet](https://github.com/novioleo/crnn.mxnet)】; 【12 - [crnn-tf-estimators](https://github.com/solivr/tf-crnn)】; 【13 - [crnn-attention-tf](https://github.com/wushilian/CRNN_Attention_OCR_Chinese)】; 【14 - [crnn.caffe](https://github.com/yalecyu/crnn.caffe)】; 【15 - [chinese.ocr-ctpn+crnn-tf+pytorch](https://github.com/chineseocr/chinese-ocr)】; 【16 - [another.crnn-attentive pooling](https://github.com/desh2608/crnn-relation-classification)】; 【17 - [crnn-tf-music](https://github.com/meetshah1995/crnn-music-genre-classification)】; 【18 - [crnn-tf-developing](https://github.com/wcy940418/CRNN-end-to-end)】; 【19 - [crnn-torch](https://github.com/yisongbetter/crnn)】; 【20 - [crnn-tf-developing](https://github.com/caihaoye16/crnn)】; 【21 - [chinese-ocr-keras](https://github.com/hehongyu1995/chinese-ocr-train)】; 【22 - [crnn-tf-developing](https://github.com/qiaohan/crnn-train-tf)】; 【23 - [ctpn+crnn-cannot-train-7](https://github.com/qq919056489/ScenceRecognition)】; 【24 - [crnn-pytorch](https://github.com/ahmedmazari-dhatim/CRNN-for-sequence-recognition-)】; 【25 - [cnn+lstm+ctc-tf](https://github.com/watsonyanghx/CNN_LSTM_CTC_Tensorflow)】; 【26 - [crnn-tf-resnet](https://github.com/shoaibahmed/CRNN-TF)]】;【27 - [caffe_ocr](https://github.com/senlinuc/caffe_ocr)】
 
 
-## End-to-End
-### 2017
-- Kang C, Kim G, Yoo S I. [Detection and Recognition of Text Embedded in Online Images via Neural Context Models](http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14154/14287)[C]//AAAI. 2017: 4103-4110.<br>
-  &nbsp;&nbsp;&nbsp;&nbsp; **code**:[[code](https://github.com/cmkang/CTSN)]
-  
-- Bartz C, Yang H, Meinel C. [STN-OCR: A single Neural Network for Text Detection and Text Recognition](https://arxiv.org/abs/1707.08831)[J]. arXiv preprint arXiv:1707.08831, 2017.<br>
-  &nbsp;&nbsp;&nbsp;&nbsp; **code**:[[code](https://github.com/Bartzi/stn-ocr)]
- 
- - Busta M, Neumann L, Matas J. [Deep TextSpotter: An End-to-End Trainable Scene Text Localization and Recognition Framework](https://pdfs.semanticscholar.org/64ff/7f81f066a26a40f52e41931a97c166db094d.pdf)[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2017: 2204-2212.[[code](https://github.com/MichalBusta/DeepTextSpotter)]
- 
+
 
 ## Synthetic Text data
 ### 2020
