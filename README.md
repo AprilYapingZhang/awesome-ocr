@@ -1,6 +1,26 @@
 # awesome-ocr
  Some awesome OCR papers.
 ------
+## Text spotting
+
+### 2022
+### CVPR 2022
+- Xiang Zhang, Yongwen Su, Subarna Tripathi, Zhuowen Tu. [Text Spotting Transformers](http://www.cvc.uab.es/~afornes/publi/journals/2014_PAMI_Almazan.pdf)[C]. CVPR 2022; **code**:[[code](https://github.com/mlpc-ucsd/TESTR)]
+- Mingxin Huang, Yuliang Liu, Zhenghao Peng, Chongyu Liu, Dahua Lin, Shenggao Zhu, Nicholas Yuan, Kai Ding, Lianwen Jin. [SwinTextSpotter: Scene Text Spotting via Better Synergy Between Text Detection and Text Recognition](https://openaccess.thecvf.com/content/CVPR2022/papers/Huang_SwinTextSpotter_Scene_Text_Spotting_via_Better_Synergy_Between_Text_Detection_CVPR_2022_paper.pdf)[C]. CVPR 2022; **code**:[[code](https://github.com/mxin262/SwinTextSpotter)]
+- Yair Kittenplon, Inbal Lavi, Sharon Fogel, Yarin Bar, R. Manmatha, Pietro Perona. [Towards Weakly-Supervised Text Spotting Using a Multi-Task Transformer](https://openaccess.thecvf.com/content/CVPR2022/papers/Kittenplon_Towards_Weakly-Supervised_Text_Spotting_Using_a_Multi-Task_Transformer_CVPR_2022_paper.pdf)[C]. CVPR 2022; 
+
+  
+### 2014
+
+- Almazán J, Gordo A, Fornés A, et al. [Word spotting and recognition with embedded attributes](http://www.cvc.uab.es/~afornes/publi/journals/2014_PAMI_Almazan.pdf)[J]. IEEE transactions on pattern analysis and machine intelligence, 2014, 36(12): 2552-2566.<br>
+  &nbsp;&nbsp;&nbsp;&nbsp; **code**:[[code](https://github.com/almazan/watts)]
+- Jaderberg M, Vedaldi A, Zisserman A. [Deep features for text spotting](http://www.robots.ox.ac.uk/~vedaldi/assets/pubs/jaderberg14deep.pdf)[C]//European conference on computer vision. Springer, Cham, 2014: 512-528.<br>
+  &nbsp;&nbsp;&nbsp;&nbsp; **code**:[[code](https://bitbucket.org/jaderberg/eccv2014_textspotting)]
+  
+ ### 2016
+ - Gómez L, Karatzas D. [Textproposals: a text-specific selective search algorithm for word spotting in the wild](https://arxiv.org/abs/1604.02619)[J]. Pattern Recognition, 2017, 70: 60-74.[[code](https://github.com/lluisgomez/TextProposals)]
+ 
+ 
 
 ## Text Detection
 ### 2021
@@ -137,18 +157,7 @@ SAR-Strong-Baseline-for-Text-Recognition](https://github.com/wangpengnorman/SAR-
  
  - Busta M, Neumann L, Matas J. [Deep TextSpotter: An End-to-End Trainable Scene Text Localization and Recognition Framework](https://pdfs.semanticscholar.org/64ff/7f81f066a26a40f52e41931a97c166db094d.pdf)[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2017: 2204-2212.[[code](https://github.com/MichalBusta/DeepTextSpotter)]
  
-## Text spotting
 
-### 2014
-
-- Almazán J, Gordo A, Fornés A, et al. [Word spotting and recognition with embedded attributes](http://www.cvc.uab.es/~afornes/publi/journals/2014_PAMI_Almazan.pdf)[J]. IEEE transactions on pattern analysis and machine intelligence, 2014, 36(12): 2552-2566.<br>
-  &nbsp;&nbsp;&nbsp;&nbsp; **code**:[[code](https://github.com/almazan/watts)]
-- Jaderberg M, Vedaldi A, Zisserman A. [Deep features for text spotting](http://www.robots.ox.ac.uk/~vedaldi/assets/pubs/jaderberg14deep.pdf)[C]//European conference on computer vision. Springer, Cham, 2014: 512-528.<br>
-  &nbsp;&nbsp;&nbsp;&nbsp; **code**:[[code](https://bitbucket.org/jaderberg/eccv2014_textspotting)]
-  
- ### 2016
- - Gómez L, Karatzas D. [Textproposals: a text-specific selective search algorithm for word spotting in the wild](https://arxiv.org/abs/1604.02619)[J]. Pattern Recognition, 2017, 70: 60-74.[[code](https://github.com/lluisgomez/TextProposals)]
- 
 ## Synthetic Text data
 ### 2020
 - 【Synthetic 3D data】 **\[CVPR-2020]** S. Long and C. Yao, “UnrealText: Synthesizing realistic scene text images from the unreal world,” in Proceedings of CVPR, 2020. [paper](https://arxiv.org/abs/2003.10608.pdf)
