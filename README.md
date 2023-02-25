@@ -39,6 +39,8 @@
 - Shangbang Long, Siyang Qin, Dmitry Panteleev, Alessandro Bissacco, Yasuhisa Fujii, Michalis Raptis. [Towards End-to-End Unified Scene Text Detection and Layout Analysis](https://openaccess.thecvf.com/content/CVPR2022/papers/Long_Towards_End-to-End_Unified_Scene_Text_Detection_and_Layout_Analysis_CVPR_2022_paper.pdf)[C]. CVPR 2022; **code**:[[code](https://github.com/google-research-datasets/hiertext)]
 - Sibo Song, Jianqiang Wan, Zhibo Yang, Jun Tang, Wenqing Cheng, Xiang Bai, Cong Yao. [Vision-Language Pre-Training for Boosting Scene Text Detectors](https://openaccess.thecvf.com/content/CVPR2022/papers/Song_Vision-Language_Pre-Training_for_Boosting_Scene_Text_Detectors_CVPR_2022_paper.pdf)[C]. CVPR 2022; **code**:[[code]()]
 - Jingqun Tang, Wenqing Zhang, Hongye Liu, MingKun Yang, Bo Jiang, Guanglong Hu, Xiang Bai. [Few Could Be Better Than All: Feature Sampling and Grouping for Scene Text Detection](https://openaccess.thecvf.com/content/CVPR2022/papers/Tang_Few_Could_Be_Better_Than_All_Feature_Sampling_and_Grouping_CVPR_2022_paper.pdf)[C]. CVPR 2022; **code**:[[code]()]
+- Xixi Xu, Zhongang Qi, Jianqi Ma, Honglun Zhang, Ying Shan, Xiaohu Qie. [BTS: A Bi-Lingual Benchmark for Text Segmentation in the Wild](https://openaccess.thecvf.com/content/CVPR2022/papers/Tang_Few_Could_Be_Better_Than_All_Feature_Sampling_and_Grouping_CVPR_2022_paper.pdf)[C]. CVPR 2022; **code**:[[code]()]
+
 
 
 ### 2021
@@ -177,6 +179,11 @@ SAR-Strong-Baseline-for-Text-Recognition](https://github.com/wangpengnorman/SAR-
 
 
 ## Synthetic Text data
+### 2022
+- Yizhi Wang, Guo Pu, Wenhan Luo, Yexin Wang, Pengfei Xiong, Hongwen Kang, Zhouhui Lian. [Aesthetic Text Logo Synthesis via Content-Aware Layout Inferring](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Aesthetic_Text_Logo_Synthesis_via_Content-Aware_Layout_Inferring_CVPR_2022_paper.pdf)[C]. CVPR 2022; **code**:[[code]()]
+
+
+- 
 ### 2020
 - 【Synthetic 3D data】 **\[CVPR-2020]** S. Long and C. Yao, “UnrealText: Synthesizing realistic scene text images from the unreal world,” in Proceedings of CVPR, 2020. [paper](https://arxiv.org/abs/2003.10608.pdf)
 ### 2016
@@ -200,11 +207,26 @@ SAR-Strong-Baseline-for-Text-Recognition](https://github.com/wangpengnorman/SAR-
 - [2] Peking University. [DynTypo: Example-Based Dynamic Text Effects Transfer, CVPR19](https://menyifang.github.io/projects/DynTypo/DynTypo.html)
 
 ## OCR + VQA
+### 2022
+- Ali Furkan Biten, Ron Litman, Yusheng Xie, Srikar Appalaraju, R. Manmatha. [LaTr: Layout-Aware Transformer for Scene-Text VQA](https://openaccess.thecvf.com/content/CVPR2022/papers/Biten_LaTr_Layout-Aware_Transformer_for_Scene-Text_VQA_CVPR_2022_paper.pdf)[C]. CVPR 2022; **code**:[[code]()]
+- 
+
+
 ### 2019
 - [1] Facebook. [Towards VQA Models That Can Read, CVPR19](https://github.com/facebookresearch/pythia)
 
+## Handwritten Mathematical Expression Recognition
+### 2022
+- Ye Yuan, Xiao Liu, Wondimu Dikubab, Hui Liu, Zhilong Ji, Zhongqin Wu, Xiang Bai. [Syntax-Aware Network for Handwritten Mathematical Expression Recognition](https://openaccess.thecvf.com/content/CVPR2022/papers/Yuan_Syntax-Aware_Network_for_Handwritten_Mathematical_Expression_Recognition_CVPR_2022_paper.pdf)[C]. CVPR 2022; **code**:[[code]()]
 
 ## Document
+### 2022
+#### CVPR 2022
+Hao Liu, Xin Li, Bing Liu, Deqiang Jiang, Yinsong Liu, Bo Ren. [Neural Collaborative Graph Machines for Table Structure Recognition](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Neural_Collaborative_Graph_Machines_for_Table_Structure_Recognition_CVPR_2022_paper.pdf)[C]. CVPR 2022; **code**:[[code]()]
+-  Chuhui Xue, Zichen Tian, Fangneng Zhan, Shijian Lu, Song Bai. [Fourier Document Restoration for Robust Document Dewarping and Recognition](https://openaccess.thecvf.com/content/CVPR2022/papers/Xue_Fourier_Document_Restoration_for_Robust_Document_Dewarping_and_Recognition_CVPR_2022_paper.pdf)[C]. CVPR 2022; **code**:[[code]()]
+-  Xiangwei Jiang, Rujiao Long, Nan Xue, Zhibo Yang, Cong Yao, Gui-Song Xia. [Revisiting Document Image Dewarping by Grid Regularization](https://openaccess.thecvf.com/content/CVPR2022/papers/Jiang_Revisiting_Document_Image_Dewarping_by_Grid_Regularization_CVPR_2022_paper.pdf)[C]. CVPR 2022; **code**:[[code]()]
+- Zhangxuan Gu, Changhua Meng, Ke Wang, Jun Lan, Weiqiang Wang, Ming Gu, Liqing Zhang. [XYLayoutLM: Towards Layout-Aware Multimodal Networks for Visually-Rich Document Understanding]([https://openaccess.thecvf.com/content/CVPR2022/papers/Jiang_Revisiting_Document_Image_Dewarping_by_Grid_Regularization_CVPR_2022_paper.pdf](https://openaccess.thecvf.com/content/CVPR2022/papers/Gu_XYLayoutLM_Towards_Layout-Aware_Multimodal_Networks_for_Visually-Rich_Document_Understanding_CVPR_2022_paper.pdf))[C]. CVPR 2022; **code**:[[code]()]
+
 ### 2017
 
 - Kil T, Seo W, Koo H I, et al. Robust Document Image Dewarping Method Using Text-Lines and Line Segments[C]//2017 14th IAPR International Conference on Document Analysis and Recognition (ICDAR). IEEE, 2017, 1: 865-870.<br>[code:[xellows1305/Document-Image-Dewarping](https://github.com/xellows1305/Document-Image-Dewarping)]
