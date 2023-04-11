@@ -2,6 +2,9 @@
  Some awesome OCR papers.
 ------
 ## Text spotting
+### 2023
+#### CVPR 2023
+- Maoyuan Ye, Jing Zhang, Shanshan Zhao, Juhua Liu, Tongliang Liu, Bo Du, Dacheng Tao. [DeepSolo: Let Transformer Decoder with Explicit Points Solo for Text Spotting](https://arxiv.org/pdf/2211.10772v3.pdf)[C]. CVPR 2023; **code**:[[code](https://github.com/ViTAE-Transformer/DeepSolo)]
 
 ### 2022
 #### CVPR 2022
@@ -33,7 +36,8 @@
  
 
 ## Text Detection
-
+#### AAAI 2023
+Maoyuan Ye, Jing Zhang, Shanshan Zhao,Juhua Liu, Bo Du, Dacheng Tao, [DPText-DETR: Towards Better Scene Text Detection with Dynamic Points in Transformer](https://arxiv.org/pdf/2207.04491.pdf)[C}. AAAI 2023;  **code**:[[code](https://github.com/ymy-k/DPText-DETR)]
 ### 2022
 #### CVPR 2022
 - Shangbang Long, Siyang Qin, Dmitry Panteleev, Alessandro Bissacco, Yasuhisa Fujii, Michalis Raptis. [Towards End-to-End Unified Scene Text Detection and Layout Analysis](https://openaccess.thecvf.com/content/CVPR2022/papers/Long_Towards_End-to-End_Unified_Scene_Text_Detection_and_Layout_Analysis_CVPR_2022_paper.pdf)[C]. CVPR 2022; **code**:[[code](https://github.com/google-research-datasets/hiertext)]
